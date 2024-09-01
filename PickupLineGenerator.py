@@ -62,7 +62,6 @@ def get_pickup_lines():
         "If you were a vegetable, you’d be a cute-cumber.",
         "Is your name Wi-Fi? Because I’m feeling a connection.",
         "Are you a parking ticket? Because you’ve got FINE written all over you.",
-        # Game-themed pickup lines
         "Are you a gaming console? Because you've got all the right moves.",
         "Is your name Zelda? Because you're a treasure.",
         "Are you a loot box? Because I feel lucky every time I see you.",
