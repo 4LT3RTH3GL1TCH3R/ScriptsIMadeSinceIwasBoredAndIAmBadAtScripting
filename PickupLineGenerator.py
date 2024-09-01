@@ -94,8 +94,8 @@ def get_pickup_lines():
     ]
 
 def get_random_pickup_line():
-    pickup_lines = get_pickup_lines()  # Call the function to get the list of lines
-    return random.choice(pickup_lines)  # Select a random line
+    pickup_lines = get_pickup_lines()
+    return random.choice(pickup_lines)
 
 print(get_random_pickup_line())
-time.sleep(99)  # Wait for 99 seconds
+time.sleep(99)
